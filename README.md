@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Project Task Management App
 
 A premium, responsive web application for managing project tasks with a sleek modern UI, glassmorphism, and dark mode support.
@@ -101,3 +102,7 @@ backend/
 - The database is running locally on the default port.
 - User has basic knowledge of how to create a MySQL database.
 - The description validation is handled both frontend and backend for robustness.
+=======
+# PROJECT_MANAGEMENT_SYSTEM
+A Project Task Manager is a full-stack web application designed to help users organize their work. It allows users to create, view, update, and delete tasks while providing a premium user interface with dark mode and real-time filtering for efficient task management.
+>>>>>>> a86a8efe388eabc605e6abf4affba19598ba3dae
